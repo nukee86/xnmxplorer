@@ -1,4 +1,5 @@
 # Xenium Xplorer
+[![Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-brightgreen)](https://play.google.com/store/apps/details?id=com.nukee.xnmxplorer)
 
 Xenium Xplorer is an Android app designed for blockchain enthusiasts to explore and analyze blockchain data. This app offers real-time statistics and insights into the blockchain structure, providing valuable information for users interested in blockchain analytics.
 
